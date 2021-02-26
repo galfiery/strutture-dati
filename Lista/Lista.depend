@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1614379755 source:c:\users\gugli\onedrive\desktop\strutture dati\lista\main.cpp
+	<iostream>
+	<Nodo.h>
+	<Lista.h>
+
+1614379799 source:c:\users\gugli\onedrive\desktop\strutture dati\lista\src\lista.cpp
+	"Lista.h"
+	"Nodo.h"
+
+1614379908 c:\users\gugli\onedrive\desktop\strutture dati\lista\include\lista.h
+	"Nodo.h"
+
+1614379381 c:\users\gugli\onedrive\desktop\strutture dati\lista\include\nodo.h
+
+1614379639 source:c:\users\gugli\onedrive\desktop\strutture dati\lista\src\nodo.cpp
+	"Nodo.h"
+	<iostream>
+	<cstdlib>
+
