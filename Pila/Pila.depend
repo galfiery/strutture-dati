@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1614381910 source:c:\users\gugli\onedrive\desktop\strutture dati\pila\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pila.h"
+	"Nodo.h"
+
+1614381001 source:c:\users\gugli\onedrive\desktop\strutture dati\pila\src\nodo.cpp
+	"Nodo.h"
+	<iostream>
+	<cstdlib>
+
+1614381033 c:\users\gugli\onedrive\desktop\strutture dati\pila\include\nodo.h
+
+1614381812 source:c:\users\gugli\onedrive\desktop\strutture dati\pila\src\pila.cpp
+	"Pila.h"
+	"Nodo.h"
+
+1614381806 c:\users\gugli\onedrive\desktop\strutture dati\pila\include\pila.h
+	"Nodo.h"
+
