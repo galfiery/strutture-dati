@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1614454593 source:c:\users\gugli\onedrive\desktop\strutture-dati\bst\src\nodo.cpp
+	"Nodo.h"
+
+1614454444 c:\users\gugli\onedrive\desktop\strutture-dati\bst\include\nodo.h
+
+1614457512 source:c:\users\gugli\onedrive\desktop\strutture-dati\bst\main.cpp
+	<iostream>
+	<cstdlib>
+	"Nodo.h"
+	"Albero.h"
+
+1614510086 c:\users\gugli\onedrive\desktop\strutture-dati\bst\include\albero.h
+	"Nodo.h"
+
+1614510581 source:c:\users\gugli\onedrive\desktop\strutture-dati\bst\src\albero.cpp
+	"Albero.h"
+	"Nodo.h"
+	<iostream>
+	<cstdlib>
+
